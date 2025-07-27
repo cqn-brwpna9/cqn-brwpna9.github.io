@@ -52,4 +52,15 @@ a{
 	color: #000000;
 	text-decoration: none;
 }
-
+.a{
+	text-align: right;
+	display: flex;
+	background-color: #ffffff;
+	border-color: #ffffff;
+	border-style: solid;
+	border-radius: 10px;
+}
+.a img{
+	width: 25px;
+	height: 25px;
+}
